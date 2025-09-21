@@ -1,6 +1,7 @@
 package test;
 
 public class module1 implements modules {
+    public String instructorname;
 
     @Override
     public void showdetails() {
